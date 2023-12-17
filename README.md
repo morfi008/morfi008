@@ -1,6 +1,6 @@
 ### Hello! I'm Caleb. 👋
 
-I’m a software product owner who works on various hobby projects here on this account. Interested in data science and AI, and dabbling in various other domains such as web/FE development.
+I’m a software product owner who works on various hobby projects here on this account. Interested in data science, especially NLP, and also audio software.
 
 
 <!---
